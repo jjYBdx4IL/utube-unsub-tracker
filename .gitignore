@@ -1,0 +1,7 @@
+package-lock.json
+node_modules
+subs.json
+tmpsubs.json
+secretauth.json
+.authtoken
+workspace.code-workspace
